@@ -10,13 +10,13 @@ DOCKER_CONTENT_TRUST=1 docker run -d --name dd-agent -v /var/run/docker.sock:/va
 
 # Steps to enable Docker integration.
 
-# 1. Add user dd-agent to the docker OS operating system group docker: 
+1. Add user dd-agent to the docker OS operating system group docker: 
 
 ```
 usermod -a -G docker dd-agent 
 ```
 
-# There would will be a sample configuration file under /etc/datadog-agent/conf.d/docker.d/conf.yaml.example. Copy or rename this file to conf.yaml and add the following settings: 
+2. There would will be a sample configuration file under /etc/datadog-agent/conf.d/docker.d/conf.yaml.example. Copy or rename this file to conf.yaml and add the following settings: 
 
 ```
 init_config: 
@@ -28,7 +28,7 @@ instances:
       new_tag_names: true 
 ```
 
-# Restart the Datadog Aagent: 
+3. Restart the Datadog Aagent: 
 ```
 service datadog-agent restart 
 ```
