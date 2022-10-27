@@ -59,3 +59,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 Thomas has over 20 years of experience in software development and IT production engineering, and currently focussed on Cloud Engineering and DevOps. He has architected, developed, and rolled out automation tools and processes at multiple companies in Silicon Valley.
 He graduated from Calicut University in India majoring in Production Engineering and he did his masters in Industrial Management from the Indian Institute of Technology, Mumbai. He worked at big corporations like Yahoo! and SAP Ariba and helped multiple startups to get started with their DevOps practice. He led and mentored engineering teams to successful completion of large DevOps and monitoring projects. He contributes regularly to tech blogs on the latest trends and best practices in his areas of expertise.
 Originally from Kochi, India, Thomas now lives in the San Francisco Bay Area with his wife and three children. An avid outdoor enthusiast he spends his free time running and hiking the trails and hills of the Bay Area with his friends and family and volunteering for his favourite charities.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800568730">https://packt.link/free-ebook/9781800568730 </a> </p>
