@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781800568730)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Datadog Cloud Monitoring Quick Start Guide
 
 <a href="https://www.packtpub.com/product/datadog-cloud-monitoring-quick-start-guide/9781800568730?utm_source=github&utm_medium=repository&utm_campaign=9781800568730"><img src="https://static.packt-cdn.com/products/9781800568730/cover/smaller" alt="Datadog Cloud Monitoring Quick Start Guide" height="256px" align="right"></a>
